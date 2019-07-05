@@ -1,0 +1,16 @@
+This is an implementation of the paper "Improving Scalability of Personalized Recommendation Systems for Enterprise Knowledge Workers"
+
+Dependencies : 
+
+1. numpy
+2. pandas
+3. scikit-learn
+
+Files:
+The files in folder 'ALL' have been divided into training files, validation files and testing files.
+
+Run:
+python final.py
+
+
+

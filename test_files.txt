@@ -1,0 +1,10 @@
+(lp0
+S'All/MajorProject/2Entity-Relationship-Extraction/polyglot/docs/MorphologicalAnalysis.rst'
+p1
+aS'All/MajorProject/2Entity-Relationship-Extraction/shallow-parser-hin-4.0.fc8/bin/sl/vibhakticomputation/vibhakticomputation.sh'
+p2
+aS'All/VI sem/ENGINEERING ECONOMICS/EE kb-kiran/KBK META/Chapter 5 - Present Worth Analysis.ppt'
+p3
+aS'All/VI sem/NUMERICAL METHODS (3)/Sravan Notes/Pre Mid Sem/IMG_20150210_100959750_HDR.jpg'
+p4
+a.
